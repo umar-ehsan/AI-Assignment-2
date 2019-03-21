@@ -1,1 +1,8 @@
-# AI-Assignment-2
+# Introduction to Artificial Intelligence/Artificial Intelligence
+## SOFE 3720 Assignment 2
+
+| Student Name | Student ID |
+| :---     | :--- |
+| Umar Ehsan | 100634240 |
+| Ryuji Komai | 100631883 |
+| Craig Savage | 100615968 |
