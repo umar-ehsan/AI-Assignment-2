@@ -119,7 +119,7 @@ def main():
         population.append(permutation)
  
     # genetic algorithm runs for 500 generations
-    for generation in range(1, 500):
+    for generation in range(1, 1000):
         for index in range(0, population_size):
             mate1 = []
             mate2 = []
